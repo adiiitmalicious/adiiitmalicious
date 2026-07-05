@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hello World! I'm Tama👋</h2>
+<h1 data-importer="text" align="center">Hello World! I'm Tama👋</h1>
 
 ###
 
