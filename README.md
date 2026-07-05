@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/user/31wwber632sawxzyhnvnhypnfsfq?si=56fc7e645a0b4de9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
-  <a href="https://discord.com/1476058494548443179" target="_blank">
+  <a href="https://discord.com/users/1476058494548443179" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
