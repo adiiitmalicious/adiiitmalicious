@@ -34,10 +34,11 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=adiiitmalicious&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/adiiitmalicious/adiiitmalicious/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/adiiitmalicious">
+    <img src="https://my-github-stats-umber-three.vercel.app/api/card/adiiitmalicious?theme=tokyonight&hide_border=true" alt="adiiitmalicious's GitHub Stats" />
+  </a>
+</p>
 
 ###
 
