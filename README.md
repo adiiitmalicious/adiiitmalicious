@@ -49,3 +49,5 @@
 </picture>
 
 ###
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31wwber632sawxzyhnvnhypnfsfq&theme=tokyonight&width=620)
